@@ -7,5 +7,3 @@ I'm a JavaScript enthusiast and Front End Web Engineer with strong skills in MER
 - 🔭 I’m currently an Associate Software Engineer at Sudofy.
 - 📚 I’m currently learning Data Engineering Concepts.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fariscode) [Gmail](mailto:farizjilani@gmail.com)
-
-⭐️ From [FarisCode](https://github.com/FarisCode)
