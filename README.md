@@ -4,6 +4,6 @@
 
 I'm a JavaScript enthusiast and Front End Web Engineer with strong skills in MERN stack.
 
-- 🔭 I’m currently a Software Engineer at Koderlabs.
+- 🔭 I’m currently a Software Engineer at VentureDive.
 - 📚 I’m currently learning Data Engineering Concepts.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fariscode) [Gmail](mailto:farizjilani@gmail.com)
